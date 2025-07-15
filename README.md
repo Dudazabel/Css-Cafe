@@ -1,4 +1,4 @@
-# Projeto Frontend: Site do Café
+# Projeto Front-end: Site do Café
 
 Este projeto foi desenvolvido em conjunto com o professor como atividade da disciplina de **Programação Frontend**. O objetivo foi criar um site funcional e visualmente agradável para um café fictício, aplicando conceitos de estruturação HTML, estilização CSS e responsividade.
 
